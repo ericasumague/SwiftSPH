@@ -1,0 +1,6 @@
+framework module Pods_SPHTechExamTests {
+  umbrella header "Pods-SPHTechExamTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
